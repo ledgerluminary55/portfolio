@@ -1,0 +1,42 @@
+{
+  "name": "space-themed-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 4123",
+    "build": "next build",
+    "start": "next start -p 5000",
+    "lint": "next lint",
+    "dev:nodemon": "nodemon --watch pages --watch components --exec \"npm run dev\""
+  },
+  "dependencies": {
+    "@emailjs/browser": "^3.10.0",
+    "framer-motion": "^10.18.0",
+    "grapheme-splitter": "^1.0.4",
+    "next": "^14.2.5",
+    "or": "^0.2.0",
+    "react": "^18",
+    "react-animated-cursor": "^2.11.2",
+    "react-dom": "^18",
+    "react-icons": "^4.11.0",
+    "react-router-dom": "^6.22.3",
+    "react-type-animation": "^3.2.0",
+    "reactflow": "^11.11.3",
+    "starfield-react": "^3.1.0-dev-5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "maath": "^0.10.4",
+    "nodemon": "^3.1.4",
+    "postcss": "^8",
+    "react-intersection-observer": "^9.5.2",
+    "tailwindcss": "^3.3.0",
+    "three": "^0.157.0",
+    "typescript": "^5"
+  }
+}
