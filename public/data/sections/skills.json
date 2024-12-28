@@ -4,18 +4,6 @@
       "title": "Skills",
       "title_long_prefix": "Explore",
       "title_long": "My **Skill Set**"
-    },
-
-    "es": {
-      "title": "Habilidades",
-      "title_long_prefix": "Explora",
-      "title_long": "Mis **Habilidades**"
-    },
-
-    "fr": {
-      "title": "Capacités",
-      "title_long_prefix": "Explorez",
-      "title_long": "Mes **Compétences**"
     }
   },
 
@@ -37,14 +25,6 @@
             "en": {
               "title": "**Website** design",
               "text": "I can bring your best ideas into life!"
-            },
-            "es": {
-              "title": "Diseño de **sitios web**",
-              "text": "¡Puedo hacer realidad tus mejores ideas!"
-            },
-            "fr": {
-              "title": "Conception de **sites web**",
-              "text": "Je peux donner vie à vos meilleures idées !"
             }
           }
         },
@@ -59,14 +39,6 @@
             "en": {
               "title": "**Database** management",
               "text": "I can handle your data effectively!"
-            },
-            "es": {
-              "title": "Gestión de **bases de datos**",
-              "text": "¡Puedo gestionar tus datos de manera eficaz!"
-            },
-            "fr": {
-              "title": "Gestion de **bases de données**",
-              "text": "Je peux gérer vos données efficacement !"
             }
           }
         },
@@ -81,14 +53,6 @@
             "en": {
               "title": "**App** creation",
               "text": "I can make creative and innovative apps!"
-            },
-            "es": {
-              "title": "Creación de **aplicaciones**",
-              "text": "¡Puedo crear aplicaciones creativas e innovadoras!"
-            },
-            "fr": {
-              "title": "Création d'**applications**",
-              "text": "Je peux créer des applications créatives et innovantes !"
             }
           }
         },
@@ -103,14 +67,6 @@
             "en": {
               "title": "REST **APIs**",
               "text": "I can build API services!"
-            },
-            "es": {
-              "title": "APIs **REST**",
-              "text": "¡Puedo crear servicios API!"
-            },
-            "fr": {
-              "title": "APIs **REST**",
-              "text": "Je peux créer des services API !"
             }
           }
         },
@@ -125,14 +81,6 @@
             "en": {
               "title": "Information **Security**",
               "text": "Security is my middle name!"
-            },
-            "es": {
-              "title": "**Seguridad** de la información",
-              "text": "¡La seguridad es mi segundo nombre!"
-            },
-            "fr": {
-              "title": "**Sécurité** de l'information",
-              "text": "La sécurité est mon deuxième prénom !"
             }
           }
         }
