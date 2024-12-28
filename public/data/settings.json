@@ -18,8 +18,7 @@
     "locales": {
       "en": { "role": "Web Developer" },
       "es": { "role": "Desarrollador Web" },
-      "fr": { "role": "Développeur Web" },
-      "ko": { "role": "웹 개발자" }
+      "fr": { "role": "Développeur Web" }
     }
   },
 
@@ -30,8 +29,7 @@
     "locales": {
       "en": { "message": "Available for freelance!" },
       "es": { "message": "¡Disponible para freelance!" },
-      "fr": { "message": "Disponible pour freelance !" },
-      "ko": { "message": "프리랜스 가능합니다!" }
+      "fr": { "message": "Disponible pour freelance !" }
     }
   },
 
