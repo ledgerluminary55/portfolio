@@ -86,13 +86,192 @@
         }
       ]
     },
-
+    {
+      "id": "blockchain_programming",
+      "component": "ArticleList",
+      "config": {},
+      "locales": {
+        "en": { "title": "Blockchain" }
+      },
+      "items": [
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-node-js",
+            "faColors": { "bg": "#339933", "fill": "#EEE" }
+          },
+          "value": 95,
+          "dates": {
+            "start": "01/15/2019"
+          },
+          "locales": {
+            "en": {
+              "title": "Solidity",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-rust",
+            "faColors": { "bg": "#007396", "fill": "#EEE" }
+          },
+          "value": 90,
+          "dates": {
+            "start": "03/10/2019"
+          },
+          "locales": {
+            "en": {
+              "title": "Rust",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-python",
+            "faColors": { "bg": "#306998", "fill": "#EEE" }
+          },
+          "value": 85,
+          "dates": {
+            "start": "06/20/2020"
+          },
+          "locales": {
+            "en": {
+              "title": "Python 3.x",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-gem",
+            "faColors": { "bg": "#CC0000", "fill": "#EEE" }
+          },
+          "value": 80,
+          "dates": {
+            "start": "08/30/2020"
+          },
+          "locales": {
+            "en": {
+              "title": "Ruby on Rails",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-database",
+            "faColors": { "bg": "#4479A1", "fill": "#EEE" }
+          },
+          "value": 90,
+          "dates": {
+            "start": "10/10/2020"
+          },
+          "locales": {
+            "en": {
+              "title": "MySQL",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-docker",
+            "faColors": { "bg": "#2496ED", "fill": "#EEE" }
+          },
+          "value": 60,
+          "dates": {
+            "start": "04/15/2021"
+          },
+          "locales": {
+            "en": {
+              "title": "Docker",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-php",
+            "faColors": { "bg": "#FFD700", "fill": "#111" }
+          },
+          "value": 100,
+          "dates": {
+            "start": "09/01/2018"
+          },
+          "locales": {
+            "en": {
+              "title": "PHP 8.0+",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-life-ring",
+            "faColors": { "bg": "#326CE5", "fill": "#EEE" }
+          },
+          "value": 80,
+          "dates": {
+            "start": "07/10/2021"
+          },
+          "locales": {
+            "en": {
+              "title": "Kubernetes",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-solid fa-server",
+            "faColors": { "bg": "#47A248", "fill": "#EEE" }
+          },
+          "value": 50,
+          "dates": {
+            "start": "05/20/2024"
+          },
+          "locales": {
+            "en": {
+              "title": "MongoDB",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-git",
+            "faColors": { "bg": "#F05032", "fill": "#111" }
+          },
+          "value": 95,
+          "dates": {
+            "start": "01/01/2018"
+          },
+          "locales": {
+            "en": {
+              "title": "Git",
+              "info": null
+            }
+          }
+        }
+      ]
+    },
     {
       "id": "backend_programming",
       "component": "ArticleList",
       "config": {},
       "locales": {
-        "en": { "title": "Backend" }
+        "en": { "title": "Backends" }
       },
 
       "items": [
@@ -281,57 +460,6 @@
         {
           "icon": {
             "img": null,
-            "fa": "fa-brands fa-html5",
-            "faColors": { "bg": "#E34F26", "fill": "#EEE" }
-          },
-          "value": 100,
-          "dates": {
-            "start": "09/01/2018"
-          },
-          "locales": {
-            "en": {
-              "title": "HTML5",
-              "info": null
-            }
-          }
-        },
-        {
-          "icon": {
-            "img": null,
-            "fa": "fa-brands fa-css3",
-            "faColors": { "bg": "#1572B6", "fill": "#EEE" }
-          },
-          "value": 65,
-          "dates": {
-            "start": "01/15/2019"
-          },
-          "locales": {
-            "en": {
-              "title": "CSS3",
-              "info": null
-            }
-          }
-        },
-        {
-          "icon": {
-            "img": null,
-            "fa": "fa-brands fa-js",
-            "faColors": { "bg": "#F7DF1E", "fill": "#111" }
-          },
-          "value": 90,
-          "dates": {
-            "start": "03/10/2020"
-          },
-          "locales": {
-            "en": {
-              "title": "JavaScript ES6+",
-              "info": null
-            }
-          }
-        },
-        {
-          "icon": {
-            "img": null,
             "fa": "fa-brands fa-react",
             "faColors": { "bg": "#61DAFB", "fill": "#111" }
           },
@@ -342,6 +470,23 @@
           "locales": {
             "en": {
               "title": "React",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-angular",
+            "faColors": { "bg": "#61DAFB", "fill": "#111" }
+          },
+          "value": 95,
+          "dates": {
+            "start": "06/20/2020"
+          },
+          "locales": {
+            "en": {
+              "title": "Angular",
               "info": null
             }
           }
@@ -379,18 +524,33 @@
               "info": null
             }
           }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-tailwindcss",
+            "faColors": { "bg": "#7952B3", "fill": "#EEE" }
+          },
+          "value": 90,
+          "dates": {
+            "start": "02/10/2021"
+          },
+          "locales": {
+            "en": {
+              "title": "Tailwind CSS",
+              "info": null
+            }
+          }
         }
       ]
     },
-
     {
       "id": "languages",
       "component": "ArticleList",
       "config": {},
       "locales": {
-        "en": { "title": "Languages" },
-        "es": { "title": "Idiomas" },
-        "fr": { "title": "Langues" }
+        "ja": { "title": "言語" },
+        "en": { "title": "Languages" }
       },
 
       "items": [
@@ -405,52 +565,15 @@
           "locales": {
             "en": {
               "title": "English",
-              "info": "Native speaker with excellent communication and writing skills.",
-              "tags": ["Native"]
-            },
-            "es": {
-              "title": "Inglés",
-              "info": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
-              "tags": ["Nativo"]
-            },
-            "fr": {
-              "title": "Anglais",
-              "info": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
-              "tags": ["Natif"]
-            }
-          }
-        },
-
-        {
-          "icon": {
-            "img": "images/flags/fr.png",
-            "fa": null,
-            "faColors": { "bg": null, "fill": null }
-          },
-          "value": null,
-          "dates": { "start": null },
-          "locales": {
-            "en": {
-              "title": "French",
-              "info": "Fluent in both spoken and written French; confident in professional communication.",
+              "info": "Fluent speaker with excellent communication and writing skills.",
               "tags": ["Fluent"]
-            },
-            "es": {
-              "title": "Francés",
-              "info": "Fluido en francés hablado y escrito; seguro en la comunicación profesional.",
-              "tags": ["Fluido"]
-            },
-            "fr": {
-              "title": "Français",
-              "info": "Fluent à l'oral et à l'écrit; confiant dans la communication professionnelle.",
-              "tags": ["Courant"]
             }
           }
         },
 
         {
           "icon": {
-            "img": "images/flags/vn.png",
+            "img": "images/flags/ja.png",
             "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
@@ -458,19 +581,9 @@
           "dates": { "start": null },
           "locales": {
             "en": {
-              "title": "Vietnamese",
-              "info": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text.",
-              "tags": ["Intermediate"]
-            },
-            "es": {
-              "title": "Vietnamita",
-              "info": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y entender textos escritos.",
-              "tags": ["Intermedio"]
-            },
-            "fr": {
-              "title": "Vietnamien",
-              "info": "Compétence intermédiaire en vietnamien; peut tenir des conversations et comprendre des textes écrits.",
-              "tags": ["Intermédiaire"]
+              "title": "Japanese",
+              "info": "Native in both spoken and written Japanese; confident in professional communication.",
+              "tags": ["Native"]
             }
           }
         }
