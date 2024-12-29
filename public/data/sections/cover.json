@@ -38,7 +38,7 @@
 
       "items": [
         {
-          "value": "Cupertino – CA",
+          "value": "Minato City, Tokyo",
           "links": [{ "href": null }],
           "icon": {
             "img": null,
@@ -86,7 +86,7 @@
           },
           "locales": {
             "en": {
-              "text": "<p>I’m a PHP developer with <b>over a decade</b> of experience, specializing in backend development with some frontend work as well. I also have hands-on experience with C++, C#, Go, and Python in production environments.</p><p>This diverse background gives me the flexibility to adapt to a wide range of project needs.</p><p>I look forward to collaborating <b>with you!</b>"
+              "text": "<text>With a solid foundation in both <i><b>Front-end</b></i> and <i><b>Back-end</b></i> technologies, I've successfully navigated the complexities of blockchain ecosystems such as EVM-compatible chains,<i> <b>Solana</b>, <b>Stellar</b>, <b>Sei</b>, <b>Polkadot</b></i>, <i><b>Ton</b></i> contributing to the development of decentralized applications and conventional web solutions. I am expertise in <b>Solana</b> and <b>Stellar</b> network, where I played a crucial role in launching various blockchain project such as<i> <b>NFT marketplace</b>, <b>Defi/Dex platform</b>, <b>GameFi</b> </i>projects, Uniswap forking and Sniper bot development. I've also used<i> <b>React.js</b></i>, and <i><b>Next.js</b></i>, delivering the front-end of projects across E-Commerce, financial services, education, customer management, real estate, and the blockchain sector. My dev career includes the development of engaging casino platforms such as Fortune Bets, all aimed at providing seamless user experiences.</text> "
             },
             "es": {
               "text": "<p>Soy un desarrollador de PHP con <b>más de una década</b> de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos.</p><p>¡Espero con interés colaborar <b>contigo!</b></p>"
@@ -209,13 +209,13 @@
     },
 
     {
-      "id": "interests",
+      "id": "Strength",
       "component": "ArticleGrid",
       "config": {
         "format": "grid"
       },
       "locales": {
-        "en": { "title": "Personal **interests**" },
+        "en": { "title": " **Strengths**" },
         "es": { "title": "Intereses **personales**" },
         "fr": { "title": "Intérêts **personnels** " }
       },
@@ -224,14 +224,14 @@
         {
           "icon": {
             "img": null,
-            "fa": "fa-solid fa-guitar",
+            "fa": "fa-solid fa-people-group",
             "faColors": null
           },
           "value": null,
           "locales": {
             "en": {
-              "title": "Playing guitar",
-              "info": "Exploring different genres and improving my skills."
+              "title": "Collaboration",
+              "info": "Working in a team motivates me to give 100% every day. Collective intelligence is the most powerful tool for companies."
             },
             "es": {
               "title": "Tocar la guitarra",
@@ -247,14 +247,14 @@
         {
           "icon": {
             "img": null,
-            "fa": "fa-solid fa-video",
+            "fa": "fa-brands fa-searchengin",
             "faColors": null
           },
           "value": null,
           "locales": {
             "en": {
-              "title": "AI video editing",
-              "info": "Learning to use AI tools to enhance my videos."
+              "title": "Attention to Detail",
+              "info": "Always pay strict attention to details because even an unimportant error could ruin the code."
             },
             "es": {
               "title": "Edición de video con IA",
@@ -270,14 +270,14 @@
         {
           "icon": {
             "img": null,
-            "fa": "fa-solid fa-paint-brush",
+            "fa": "fa-solid fa-arrow-trend-up",
             "faColors": null
           },
           "value": null,
           "locales": {
             "en": {
-              "title": "Illustration",
-              "info": "Practicing digital art and exploring new styles."
+              "title": "Prioritizing",
+              "info": "Prioritizing is why I use 100% of my energy and mental capacity for the most complex and thought- provoking tasks."
             },
             "es": {
               "title": "Ilustración",
@@ -286,75 +286,6 @@
             "fr": {
               "title": "Illustration",
               "info": "Pratiquer l'art numérique et explorer de nouveaux styles."
-            }
-          }
-        },
-
-        {
-          "icon": {
-            "img": null,
-            "fa": "fa-solid fa-chart-line",
-            "faColors": null
-          },
-          "value": null,
-          "locales": {
-            "en": {
-              "title": "Investing",
-              "info": "Learning the basics of stocks and personal finance."
-            },
-            "es": {
-              "title": "Invertir",
-              "info": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
-            },
-            "fr": {
-              "title": "Investir",
-              "info": "Apprendre les bases des actions et des finances personnelles."
-            }
-          }
-        },
-
-        {
-          "icon": {
-            "img": null,
-            "fa": "fa-solid fa-pencil-alt",
-            "faColors": null
-          },
-          "value": null,
-          "locales": {
-            "en": {
-              "title": "UX design",
-              "info": "Studying user experience principles."
-            },
-            "es": {
-              "title": "Diseño UX",
-              "info": "Estudiando los principios de la experiencia del usuario."
-            },
-            "fr": {
-              "title": "Conception UX",
-              "info": "Étudier les principes de l'expérience utilisateur."
-            }
-          }
-        },
-
-        {
-          "icon": {
-            "img": null,
-            "fa": "fa-solid fa-camera-retro",
-            "faColors": null
-          },
-          "value": null,
-          "locales": {
-            "en": {
-              "title": "Photo editing",
-              "info": "Enhancing photos through creative editing techniques."
-            },
-            "es": {
-              "title": "Edición de fotos",
-              "info": "Mejorando fotos a través de técnicas creativas de edición."
-            },
-            "fr": {
-              "title": "Retouche photo",
-              "info": "Améliorer des photos avec des techniques de montage créatives."
             }
           }
         }
