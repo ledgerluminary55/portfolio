@@ -47,8 +47,8 @@
           }
         },
         {
-          "value": "mark.choi@dev.com",
-          "links": [{ "href": "mailto:mark.choi@dev.com" }],
+          "value": "ronnyphoenix@gmail.com",
+          "links": [{ "href": "mailto:ronnyphoenix@gmail.com" }],
           "icon": {
             "img": null,
             "fa": "fa-solid fa-envelope",
@@ -56,8 +56,8 @@
           }
         },
         {
-          "value": "@ryanbalieiro",
-          "links": [{ "href": "https://github.com/ryanbalieiro" }],
+          "value": "@ledgerluminary55",
+          "links": [{ "href": "https://github.com/ledgerluminary55" }],
           "icon": {
             "img": null,
             "fa": "fa-brands fa-github",
