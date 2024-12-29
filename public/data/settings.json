@@ -10,13 +10,13 @@
   },
 
   "profile": {
-    "name": "Mark Choi",
-    "stylizedName": "<strong>Mark **Choi**</strong>",
+    "name": "Ron Phoneix",
+    "stylizedName": "<strong>Ron **Phoenix**</strong>",
     "logoUrl": "images/svg/logo.svg",
-    "profilePictureUrl": "images/pictures/avatar.jpg",
+    "profilePictureUrl": "images/pictures/avatar.webp",
 
     "locales": {
-      "en": { "role": "Web Developer" },
+      "en": { "role": "Full stack Blockchain Developer" },
       "es": { "role": "Desarrollador Web" },
       "fr": { "role": "Développeur Web" }
     }
