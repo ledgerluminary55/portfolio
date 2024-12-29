@@ -215,7 +215,7 @@
         "format": "grid"
       },
       "locales": {
-        "en": { "title": " **Strengths**" },
+        "en": { "title": "My **Strengths**" },
         "es": { "title": "Intereses **personales**" },
         "fr": { "title": "Intérêts **personnels** " }
       },
