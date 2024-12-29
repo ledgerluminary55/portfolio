@@ -4,6 +4,18 @@
       "title": "Skills",
       "title_long_prefix": "Explore",
       "title_long": "My **Skill Set**"
+    },
+
+    "es": {
+      "title": "Habilidades",
+      "title_long_prefix": "Explora",
+      "title_long": "Mis **Habilidades**"
+    },
+
+    "fr": {
+      "title": "Capacités",
+      "title_long_prefix": "Explorez",
+      "title_long": "Mes **Compétences**"
     }
   },
 
@@ -25,6 +37,14 @@
             "en": {
               "title": "**Website** design",
               "text": "I can bring your best ideas into life!"
+            },
+            "es": {
+              "title": "Diseño de **sitios web**",
+              "text": "¡Puedo hacer realidad tus mejores ideas!"
+            },
+            "fr": {
+              "title": "Conception de **sites web**",
+              "text": "Je peux donner vie à vos meilleures idées !"
             }
           }
         },
@@ -39,6 +59,14 @@
             "en": {
               "title": "**Database** management",
               "text": "I can handle your data effectively!"
+            },
+            "es": {
+              "title": "Gestión de **bases de datos**",
+              "text": "¡Puedo gestionar tus datos de manera eficaz!"
+            },
+            "fr": {
+              "title": "Gestion de **bases de données**",
+              "text": "Je peux gérer vos données efficacement !"
             }
           }
         },
@@ -53,6 +81,14 @@
             "en": {
               "title": "**App** creation",
               "text": "I can make creative and innovative apps!"
+            },
+            "es": {
+              "title": "Creación de **aplicaciones**",
+              "text": "¡Puedo crear aplicaciones creativas e innovadoras!"
+            },
+            "fr": {
+              "title": "Création d'**applications**",
+              "text": "Je peux créer des applications créatives et innovantes !"
             }
           }
         },
@@ -67,6 +103,14 @@
             "en": {
               "title": "REST **APIs**",
               "text": "I can build API services!"
+            },
+            "es": {
+              "title": "APIs **REST**",
+              "text": "¡Puedo crear servicios API!"
+            },
+            "fr": {
+              "title": "APIs **REST**",
+              "text": "Je peux créer des services API !"
             }
           }
         },
@@ -81,18 +125,27 @@
             "en": {
               "title": "Information **Security**",
               "text": "Security is my middle name!"
+            },
+            "es": {
+              "title": "**Seguridad** de la información",
+              "text": "¡La seguridad es mi segundo nombre!"
+            },
+            "fr": {
+              "title": "**Sécurité** de l'information",
+              "text": "La sécurité est mon deuxième prénom !"
             }
           }
         }
       ]
     },
     {
-      "id": "blockchain_programming",
+      "id": "backend_programming",
       "component": "ArticleList",
       "config": {},
       "locales": {
         "en": { "title": "Blockchain" }
       },
+
       "items": [
         {
           "icon": {
@@ -106,7 +159,7 @@
           },
           "locales": {
             "en": {
-              "title": "Solidity",
+              "title": "Node.js",
               "info": null
             }
           }
@@ -114,7 +167,7 @@
         {
           "icon": {
             "img": null,
-            "fa": "fa-brands fa-rust",
+            "fa": "fa-brands fa-java",
             "faColors": { "bg": "#007396", "fill": "#EEE" }
           },
           "value": 90,
@@ -123,7 +176,7 @@
           },
           "locales": {
             "en": {
-              "title": "Rust",
+              "title": "Java 11+",
               "info": null
             }
           }
@@ -271,7 +324,7 @@
       "component": "ArticleList",
       "config": {},
       "locales": {
-        "en": { "title": "Backends" }
+        "en": { "title": "Backend" }
       },
 
       "items": [
@@ -460,6 +513,57 @@
         {
           "icon": {
             "img": null,
+            "fa": "fa-brands fa-html5",
+            "faColors": { "bg": "#E34F26", "fill": "#EEE" }
+          },
+          "value": 100,
+          "dates": {
+            "start": "09/01/2018"
+          },
+          "locales": {
+            "en": {
+              "title": "HTML5",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-css3",
+            "faColors": { "bg": "#1572B6", "fill": "#EEE" }
+          },
+          "value": 65,
+          "dates": {
+            "start": "01/15/2019"
+          },
+          "locales": {
+            "en": {
+              "title": "CSS3",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-js",
+            "faColors": { "bg": "#F7DF1E", "fill": "#111" }
+          },
+          "value": 90,
+          "dates": {
+            "start": "03/10/2020"
+          },
+          "locales": {
+            "en": {
+              "title": "JavaScript ES6+",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
             "fa": "fa-brands fa-react",
             "faColors": { "bg": "#61DAFB", "fill": "#111" }
           },
@@ -470,23 +574,6 @@
           "locales": {
             "en": {
               "title": "React",
-              "info": null
-            }
-          }
-        },
-        {
-          "icon": {
-            "img": null,
-            "fa": "fa-brands fa-angular",
-            "faColors": { "bg": "#61DAFB", "fill": "#111" }
-          },
-          "value": 95,
-          "dates": {
-            "start": "06/20/2020"
-          },
-          "locales": {
-            "en": {
-              "title": "Angular",
               "info": null
             }
           }
@@ -524,33 +611,18 @@
               "info": null
             }
           }
-        },
-        {
-          "icon": {
-            "img": null,
-            "fa": "fa-brands fa-tailwindcss",
-            "faColors": { "bg": "#7952B3", "fill": "#EEE" }
-          },
-          "value": 90,
-          "dates": {
-            "start": "02/10/2021"
-          },
-          "locales": {
-            "en": {
-              "title": "Tailwind CSS",
-              "info": null
-            }
-          }
         }
       ]
     },
+
     {
       "id": "languages",
       "component": "ArticleList",
       "config": {},
       "locales": {
-        "ja": { "title": "言語" },
-        "en": { "title": "Languages" }
+        "en": { "title": "Languages" },
+        "es": { "title": "Idiomas" },
+        "fr": { "title": "Langues" }
       },
 
       "items": [
@@ -565,15 +637,25 @@
           "locales": {
             "en": {
               "title": "English",
-              "info": "Fluent speaker with excellent communication and writing skills.",
-              "tags": ["Fluent"]
+              "info": "Native speaker with excellent communication and writing skills.",
+              "tags": ["Native"]
+            },
+            "es": {
+              "title": "Inglés",
+              "info": "Hablante nativo con excelentes habilidades de comunicación y escritura.",
+              "tags": ["Nativo"]
+            },
+            "fr": {
+              "title": "Anglais",
+              "info": "Locuteur natif avec d'excellentes compétences en communication et en rédaction.",
+              "tags": ["Natif"]
             }
           }
         },
 
         {
           "icon": {
-            "img": "images/flags/ja.png",
+            "img": "images/flags/fr.png",
             "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
@@ -581,9 +663,46 @@
           "dates": { "start": null },
           "locales": {
             "en": {
-              "title": "Japanese",
-              "info": "Native in both spoken and written Japanese; confident in professional communication.",
-              "tags": ["Native"]
+              "title": "French",
+              "info": "Fluent in both spoken and written French; confident in professional communication.",
+              "tags": ["Fluent"]
+            },
+            "es": {
+              "title": "Francés",
+              "info": "Fluido en francés hablado y escrito; seguro en la comunicación profesional.",
+              "tags": ["Fluido"]
+            },
+            "fr": {
+              "title": "Français",
+              "info": "Fluent à l'oral et à l'écrit; confiant dans la communication professionnelle.",
+              "tags": ["Courant"]
+            }
+          }
+        },
+
+        {
+          "icon": {
+            "img": "images/flags/vn.png",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+          "value": null,
+          "dates": { "start": null },
+          "locales": {
+            "en": {
+              "title": "Vietnamese",
+              "info": "Intermediate proficiency in Vietnamese language; can hold conversations and understand written text.",
+              "tags": ["Intermediate"]
+            },
+            "es": {
+              "title": "Vietnamita",
+              "info": "Competencia intermedia en el idioma vietnamita; puede mantener conversaciones y entender textos escritos.",
+              "tags": ["Intermedio"]
+            },
+            "fr": {
+              "title": "Vietnamien",
+              "info": "Compétence intermédiaire en vietnamien; peut tenir des conversations et comprendre des textes écrits.",
+              "tags": ["Intermédiaire"]
             }
           }
         }
