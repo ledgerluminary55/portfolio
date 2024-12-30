@@ -114,14 +114,14 @@
           "value": "Anita Bath",
           "links": [{ "href": "https://linkedin.com" }],
           "icon": {
-            "img": "images/pictures/person-1.png",
+            "img": "images/pictures/ceo.webp",
             "fa": "fa-solid fa-user",
             "faColors": null
           },
           "locales": {
             "en": {
-              "info": "CEO at <b>SalesForce</b>",
-              "text": "Working with Mark was a transformative experience. His programming skills and dedication not only improved our project but also inspired the entire team."
+              "info": "CEO at <b>VeriServe</b>",
+              "text": "I’m truly impressed by his professional vision. Without his innovative ideas and exceptional talent, I never would have anticipated the incredible results we achieved. I am sincerely grateful for his contributions."
             },
             "es": {
               "info": "CEO en <b>SalesForce</b>",
@@ -135,17 +135,17 @@
         },
 
         {
-          "value": "Lou Natic",
+          "value": "Hùng Phạm",
           "links": [{ "href": "https://github.com" }],
           "icon": {
-            "img": "images/pictures/person-3.png",
+            "img": "images/pictures/Hùng Phạm - BlueOC  Software developer.webp",
             "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
           "locales": {
             "en": {
-              "info": "Lead Developer at <b>GitHub</b>",
-              "text": "Having Mark on our team was an invaluable asset. His deep programming insights and mentorship not only elevated our projects but also empowered us to tackle every challenge with confidence and creativity."
+              "info": "Developer at <b>BlueOC</b>",
+              "text": "He’s a natural-born project manager. I truly believe that his exceptional talent and genuine care for his team members were key to this success. I aspire to become someone like him in the future."
             },
             "es": {
               "info": "Desarrollador Principal en <b>GitHub </b>",
@@ -157,19 +157,18 @@
             }
           }
         },
-
         {
-          "value": "Paige Turner",
-          "links": [{ "href": null }],
+          "value": "Robert Love",
+          "links": [{ "href": "https://www.linkedin.com/in/rmlove" }],
           "icon": {
-            "img": "images/pictures/person-2.png",
+            "img": "images/pictures/Robert Love(USA_CLIENT).webp",
             "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
           "locales": {
             "en": {
-              "info": "Managing Director at <b>Dingga</b>",
-              "text": "Collaborating with Mark was a game changer for our development process. His expertise and problem-solving abilities were invaluable to our success."
+              "info": "Client",
+              "text": "His ability to pick up new skills is truly remarkable. Initially, I was quite concerned since this was his first time working in this field, but his talent and dedication quickly put those worries to rest. Thanks to his hard work, the project was a resounding success."
             },
             "es": {
               "info": "Directora General en <b>Dingga</b>",
@@ -183,17 +182,19 @@
         },
 
         {
-          "value": "Chris P. Bacon",
-          "links": [{ "href": "https://dribbble.com" }],
+          "value": "Richard Sanche",
+          "links": [
+            { "href": "https://www.linkedin.com/in/richard-sanchez-534b4313" }
+          ],
           "icon": {
-            "img": "images/pictures/person-4.png",
+            "img": "images/pictures/Richard Sanches (USA_CLIENT).webp",
             "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
           "locales": {
             "en": {
-              "info": "Creative Director at <b>Dribbble</b>",
-              "text": "Mark's attention to detail and his innovative thinking brought a fresh perspective to our design process. He truly elevated our team's work and helped us deliver results beyond expectations."
+              "info": "Client",
+              "text": "It wouldn’t do him justice to sum up his talent and dedication in just a sentence or two, but I can confidently say he’s one of the most talented and reliable people I’ve ever had the pleasure of working with. Absolutely outstanding!"
             },
             "es": {
               "info": "Directora Creativa en <b>Dribbble</b>",
