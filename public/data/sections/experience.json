@@ -75,6 +75,7 @@
               "text": "<p>BlueOC is a website development firm. Their team focuses on Web Development and Mobile App Development.</p><ul><li>Participated in building sports gambling analytics tool.</li><li>Refactored the architecture of existing application and maintained as well.</li><li>Implemented features for internal applications using TypeScript, React, Redux, Node.js, Python and SQLAlchemy.</li><li>Improved and upgraded the development tooling and workflow for several projects TypeScript & Python).</li></ul>",
               "tags": [
                 "Python",
+                "Pytorch",
                 "Java",
                 "TypeScript",
                 "Node.js",
@@ -110,7 +111,16 @@
               "title": "**Full-stack** and **Blockchain** developer",
               "info": "Self Employed",
               "text": "<p>Worked as self-employment for some individual clients and Global distributed teams.</p><ul><li>Built Creator/Fans-Social Media platform as full-stack developer from the scratch, Refactored frontend application of Energy management Sass Platform that built with React.js+Class Component to React+TSFunction Component, Development some frontend application for Decentralized Finance.</li><li>Developed over 4 smart contracts and web3 frontend for presale, swap protocols and tested it.</li><li>Developed and deployed the canisters and frontend for NFT marketplace on the ICP chain.</li><li>Reviewed and incorporated latest technology and development strategies to improve the building speed, quality and user experience.</li></ul>",
-              "tags": ["Java", "AWS", "REST", "Docker"]
+              "tags": [
+                "Solidity",
+                "Bitcoin.js",
+                "Web3.js",
+                "React.js",
+                "Java",
+                "AWS",
+                "REST",
+                "Docker"
+              ]
             },
             "es": {
               "title": "Ingeniero **Backend**",
@@ -141,7 +151,18 @@
               "title": "**Smart contract** engineer and **Security auditor**",
               "info": "FIXER",
               "text": "<p>FIXER was founded in 2009 in Japan and has been aiming to accelerate cloud computing integration in corporate infrastructures ever since. In less than 10 years.</p><ul><li>Designed and developed the solana program and backend server using rust and nodejs to implement deploying customized utility tokens and creating a pool of Raydium for auto-trading.</li><li>Built 5 reusable cross-chain libraries.</li><liPerformed auditing for over 5 blockchain protocols and found over 20 vulnerabilities of high and medium severity.</li><li>Assisted in developing the backend that became the foundation for the intersection between Web3 and FinTech.</li><li>Participated in 5 open source community projects, met with stakeholders, and mentored and tutored 3 junior developers.</li></ul>",
-              "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
+              "tags": [
+                "Solidity",
+                "Rust",
+                "Open AI",
+                "Python",
+                "C++",
+                "Swift",
+                "PostgreSQL",
+                "GraphQL",
+                "RESTful APIs",
+                "PHP"
+              ]
             },
             "es": {
               "title": "Desarrollador **Backend Senior**",
