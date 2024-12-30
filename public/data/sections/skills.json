@@ -123,6 +123,57 @@
               "info": null
             }
           }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/pyteal.webp",
+            "fa": null,
+            "faColors": { "bg": "#eee" }
+          },
+          "value": 95,
+          "dates": {
+            "start": "09/11/2021"
+          },
+          "locales": {
+            "en": {
+              "title": "Pyteal",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-golang",
+            "faColors": { "bg": "#eee", "fill": "#28ADD6" }
+          },
+          "value": 95,
+          "dates": {
+            "start": "09/11/2020"
+          },
+          "locales": {
+            "en": {
+              "title": "Go",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/web3.webp",
+            "fa": null,
+            "faColors": { "bg": "#eee", "fill": "#28ADD6" }
+          },
+          "value": 95,
+          "dates": {
+            "start": "09/11/2019"
+          },
+          "locales": {
+            "en": {
+              "title": "Web3.js",
+              "info": null
+            }
+          }
         }
       ]
     },
@@ -181,40 +232,6 @@
           "locales": {
             "en": {
               "title": "Vue.js",
-              "info": null
-            }
-          }
-        },
-        {
-          "icon": {
-            "img": "images/pictures/d3.webp",
-            "fa": null,
-            "faColors": { "bg": "#eee", "fill": "#111" }
-          },
-          "value": 40,
-          "dates": {
-            "start": "09/11/2020"
-          },
-          "locales": {
-            "en": {
-              "title": "D3.js",
-              "info": null
-            }
-          }
-        },
-        {
-          "icon": {
-            "img": "images/pictures/mapbox.webp",
-            "fa": null,
-            "faColors": { "bg": "#eee" }
-          },
-          "value": 40,
-          "dates": {
-            "start": "09/11/2020"
-          },
-          "locales": {
-            "en": {
-              "title": "Mapbox",
               "info": null
             }
           }
@@ -369,6 +386,86 @@
       ]
     },
     {
+      "id": "Design and 3D Modelling",
+      "component": "ArticleList",
+      "config": {},
+      "locales": {
+        "en": { "title": "Design and 3D Modelling" }
+      },
+
+      "items": [
+        {
+          "icon": {
+            "img": "images/pictures/xd.webp",
+            "fa": null,
+            "faColors": { "bg": "#EEE" }
+          },
+          "value": 60,
+          "dates": {
+            "start": "09/11/2019"
+          },
+          "locales": {
+            "en": {
+              "title": "Adobe XD",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/figma.webp",
+            "fa": null,
+            "faColors": { "bg": "#eee" }
+          },
+          "value": 90,
+          "dates": {
+            "start": "09/11/2019"
+          },
+          "locales": {
+            "en": {
+              "title": "Figma",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/blender.webp",
+            "fa": null,
+            "faColors": { "bg": "#eee" }
+          },
+          "value": 40,
+          "dates": {
+            "start": "09/11/2020"
+          },
+          "locales": {
+            "en": {
+              "title": "Blender",
+              "info": null
+            }
+          }
+        },
+
+        {
+          "icon": {
+            "img": "images/pictures/d3.webp",
+            "fa": null,
+            "faColors": { "bg": "#eee", "fill": "#111" }
+          },
+          "value": 40,
+          "dates": {
+            "start": "09/11/2020"
+          },
+          "locales": {
+            "en": {
+              "title": "D3.js",
+              "info": null
+            }
+          }
+        }
+      ]
+    },
+    {
       "id": "AI_programming",
       "component": "ArticleList",
       "config": {},
@@ -424,6 +521,23 @@
           "locales": {
             "en": {
               "title": "Pytorch",
+              "info": null
+            }
+          }
+        },
+        {
+          "icon": {
+            "img": "images/pictures/openai.webp",
+            "fa": null,
+            "faColors": { "bg": "#EEEEEE" }
+          },
+          "value": 100,
+          "dates": {
+            "start": "09/11/2021"
+          },
+          "locales": {
+            "en": {
+              "title": "OpenAI",
               "info": null
             }
           }
