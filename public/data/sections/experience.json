@@ -29,20 +29,20 @@
       "items": [
         {
           "icon": {
-            "img": "images/pictures/place-7.png",
+            "img": "images/pictures/veriserve.webp",
             "fa": "",
-            "faColors": { "bg": null, "fill": null }
+            "faColors": { "bg": "#EEE" }
           },
           "dates": {
-            "start": "03/01/2016",
-            "end": "06/01/2018"
+            "start": "02/01/2017",
+            "end": "11/01/2017"
           },
           "locales": {
             "en": {
-              "title": "**Backend** Developer",
-              "info": "Sapphire Studio",
-              "text": "Developed and maintained scalable backend systems for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
-              "tags": ["PHP", "MySQL", "Laravel"]
+              "title": "**Frontend** Developer",
+              "info": "VeriServe",
+              "text": "<p>VeriServe is an IT managed services company. Their services include IT managed services and UX/UI Design.</p><ul><li>Worked with individual clients or client company of this company.</li><li>Mostly worked on Frontend side with React.js, Vue.js, Next.js.</li><li>Built E-commerce project, Health-care hospital management system, English Learning system for Japanese children.</li></ul>",
+              "tags": ["Figma", "Xd", "React.js", "Next.js", "Vue.js"]
             },
             "es": {
               "title": "Desarrollador **Backend**",
@@ -60,26 +60,25 @@
         },
         {
           "icon": {
-            "img": "images/pictures/place-3.png",
+            "img": "images/pictures/blueoc.webp",
             "fa": "",
-            "faColors": { "bg": null, "fill": null }
+            "faColors": { "bg": "#EEE" }
           },
           "dates": {
-            "start": "06/01/2018",
-            "end": "12/01/2020"
+            "start": "02/01/2018",
+            "end": "04/01/2020"
           },
           "locales": {
             "en": {
-              "title": "**Full-Stack** Engineer",
-              "info": "Coursera",
-              "text": "Worked on enhancing the Coursera website by implementing new features and improving user experience, utilizing both frontend and backend technologies to ensure seamless functionality.",
+              "title": "**Full-Stack** Developer",
+              "info": "BlueOC",
+              "text": "<p>BlueOC is a website development firm. Their team focuses on Web Development and Mobile App Development.</p><ul><li>Participated in building sports gambling analytics tool.</li><li>Refactored the architecture of existing application and maintained as well.</li><li>Implemented features for internal applications using TypeScript, React, Redux, Node.js, Python and SQLAlchemy.</li><li>Improved and upgraded the development tooling and workflow for several projects TypeScript & Python).</li></ul>",
               "tags": [
-                "JavaScript",
-                "React",
+                "Python",
+                "Java",
+                "TypeScript",
                 "Node.js",
-                "PHP",
-                "REST",
-                "Docker"
+                "SQL databases"
               ]
             },
             "es": {
@@ -98,19 +97,19 @@
         },
         {
           "icon": {
-            "img": "images/pictures/place-1.png",
+            "img": "images/pictures/self.webp",
             "fa": "",
-            "faColors": { "bg": null, "fill": null }
+            "faColors": { "bg": "#EEE" }
           },
           "dates": {
-            "start": "12/01/2020",
-            "end": "11/01/2022"
+            "start": "05/01/2020",
+            "end": "08/01/2021"
           },
           "locales": {
             "en": {
-              "title": "**Backend** Engineer",
-              "info": "Adobe Inc.",
-              "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
+              "title": "**Full-stack** and **Blockchain** developer",
+              "info": "Self Employed",
+              "text": "<p>Worked as self-employment for some individual clients and Global distributed teams.</p><ul><li>Built Creator/Fans-Social Media platform as full-stack developer from the scratch, Refactored frontend application of Energy management Sass Platform that built with React.js+Class Component to React+TSFunction Component, Development some frontend application for Decentralized Finance.</li><li>Developed over 4 smart contracts and web3 frontend for presale, swap protocols and tested it.</li><li>Developed and deployed the canisters and frontend for NFT marketplace on the ICP chain.</li><li>Reviewed and incorporated latest technology and development strategies to improve the building speed, quality and user experience.</li></ul>",
               "tags": ["Java", "AWS", "REST", "Docker"]
             },
             "es": {
@@ -129,25 +128,25 @@
         },
         {
           "icon": {
-            "img": null,
-            "fa": "fa-brands fa-apple",
-            "faColors": { "bg": "#111", "fill": "#EEE" }
+            "img": "images/pictures/fixer.webp",
+            "fa": null,
+            "faColors": { "bg": "#EEE" }
           },
           "dates": {
-            "start": "12/01/2022",
-            "end": "now"
+            "start": "08/01/2021",
+            "end": "06/01/2023"
           },
           "locales": {
             "en": {
-              "title": "**Senior Backend** Developer",
-              "info": "Apple Inc.",
-              "text": "<p>Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:</p> <ul><li>Security</li><li>Scalability to handle millions of users globally</li><li>Developing RESTful APIs</li><li>Optimizing database performance with PostgreSQL</li><li>Building services with Swift, PHP, and GraphQL</li></ul> <p class='mt-3'>Together, we ensure Apple's backend infrastructure stays robust and efficient.</p>",
+              "title": "**Smart contract** engineer and **Security auditor**",
+              "info": "FIXER",
+              "text": "<p>FIXER was founded in 2009 in Japan and has been aiming to accelerate cloud computing integration in corporate infrastructures ever since. In less than 10 years.</p><ul><li>Designed and developed the solana program and backend server using rust and nodejs to implement deploying customized utility tokens and creating a pool of Raydium for auto-trading.</li><li>Built 5 reusable cross-chain libraries.</li><liPerformed auditing for over 5 blockchain protocols and found over 20 vulnerabilities of high and medium severity.</li><li>Assisted in developing the backend that became the foundation for the intersection between Web3 and FinTech.</li><li>Participated in 5 open source community projects, met with stakeholders, and mentored and tutored 3 junior developers.</li></ul>",
               "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
             },
             "es": {
               "title": "Desarrollador **Backend Senior**",
               "info": "Apple Inc.",
-              "text": "<p>Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:</p> <ul><li>Seguridad</li><li>Escalabilidad para manejar millones de usuarios a nivel global</li><li>Desarrollar APIs RESTful</li><li>Optimizar el rendimiento de bases de datos con PostgreSQL</li><li>Construcción de servicios con Swift, PHP y GraphQL</li></ul> <p class='mt-3'>Juntos, aseguramos que la infraestructura backend de Apple se mantenga robusta y eficiente.</p>",
+              "text": "<p>FIXER was founded in 2009 in Japan and has been aiming to accelerate cloud computing integration in corporate infrastructures ever since. In less than 10 years.</p><ul><li>Designed and developed the solana program and backend server using rust and nodejs to implement deploying customized utility tokens and creating a pool of Raydium for auto-trading.</li><li>Built 5 reusable cross-chain libraries.</li><liPerformed auditing for over 5 blockchain protocols and found over 20 vulnerabilities of high and medium severity.</li><li>Assisted in developing the backend that became the foundation for the intersection between Web3 and FinTech.</li><li>Participated in 5 open source community projects, met with stakeholders, and mentored and tutored 3 junior developers.</li></ul>",
               "tags": ["Swift", "PostgreSQL", "GraphQL", "RESTful APIs", "PHP"]
             },
             "fr": {
