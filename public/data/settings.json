@@ -28,8 +28,7 @@
 
     "locales": {
       "en": { "message": "Available for freelance!" },
-      "es": { "message": "¡Disponible para freelance!" },
-      "fr": { "message": "Disponible pour freelance !" }
+      "ja": { "message": "¡Disponible para freelance!" }
     }
   },
 
@@ -56,15 +55,9 @@
     },
 
     {
-      "name": "Español",
-      "id": "es",
-      "flagUrl": "images/flags/es.png"
-    },
-
-    {
-      "name": "Français",
-      "id": "fr",
-      "flagUrl": "images/flags/fr.png"
+      "name": "日本語",
+      "id": "ja",
+      "flagUrl": "images/flags/ja.png"
     }
   ],
 
