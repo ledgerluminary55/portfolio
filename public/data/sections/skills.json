@@ -23,8 +23,7 @@
           },
           "locales": {
             "en": {
-              "title": "**Smart Contract** Development",
-              "text": "I can bring your best ideas into life!"
+              "title": "**Smart Contract** Development"
             }
           }
         },
@@ -37,8 +36,7 @@
           },
           "locales": {
             "en": {
-              "title": "**Database** management",
-              "text": "I can handle your data effectively!"
+              "title": "**Database** management"
             }
           }
         },
@@ -51,8 +49,7 @@
           },
           "locales": {
             "en": {
-              "title": "**DApp** Development",
-              "text": "I can make creative and innovative apps!"
+              "title": "**DApp** Development"
             }
           }
         },
@@ -65,8 +62,7 @@
           },
           "locales": {
             "en": {
-              "title": "**System** Architecture",
-              "text": "I can build API services!"
+              "title": "**System** Architecture"
             }
           }
         },
@@ -79,8 +75,7 @@
           },
           "locales": {
             "en": {
-              "title": "**Security** Auditing",
-              "text": "Security is my middle name!"
+              "title": "**Security** Auditing"
             }
           }
         }
