@@ -1,4 +1,4 @@
-# [<img src="readme-assets/logo.png"> React Portfolio](https://ryanbalieiro.github.io/react-portfolio-template/) by RON PHOENIX
+# [<img src="readme-assets/logo.png"> React Portfolio](https://ryanbalieiro.github.io/react-portfolio-template/) by Hiroshi Sekiya
 
 A sleek, futuristic portfolio template for developers – built with **React** and **Bootstrap 5**.
 
@@ -270,7 +270,7 @@ This command triggers a series of processes that package your code, assets, and 
 
 ## About
 
-This template was created by and is maintained by **[RON PHOENIX](https://ryanbalieiro.com/)**.
+This template was created by and is maintained by **[Hiroshi Sekiya](https://ryanbalieiro.com/)**.
 
 It's based on the **[React](https://reactjs.org/)** framework created by Jordan Walke, and the **[Bootstrap](https://getbootstrap.com/)** framework created by Mark Otto and Jacob Thorton.
 

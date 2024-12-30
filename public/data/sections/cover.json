@@ -4,7 +4,7 @@
       "title": "Welcome!",
       "title_menu": "About me",
       "title_long_prefix": "Hello...",
-      "title_long": "I'm **Mark Choi!**"
+      "title_long": "I'm **Hiroshi Sekiya!**"
     },
 
     "es": {
@@ -111,17 +111,17 @@
 
       "items": [
         {
-          "value": "Anita Bath",
+          "value": "ハリー・ヴー",
           "links": [{ "href": "https://linkedin.com" }],
           "icon": {
-            "img": "images/pictures/ceo.webp",
+            "img": "images/pictures/ハリー・ヴー CEO of BlueOC.webp",
             "fa": "fa-solid fa-user",
             "faColors": null
           },
           "locales": {
             "en": {
-              "info": "CEO at <b>VeriServe</b>",
-              "text": "I’m truly impressed by his professional vision. Without his innovative ideas and exceptional talent, I never would have anticipated the incredible results we achieved. I am sincerely grateful for his contributions."
+              "info": "CEO of <b>BlueOC</b>",
+              "text": "Hiroshi is a strong performer who consistently meets and exceeds expectations. His technical skills, teamwork, and leadership qualities make him a valuable member of the team. I look forward to seeing Hiroshi continue to grow and contribute to the success of the company in the coming year -2023."
             },
             "es": {
               "info": "CEO en <b>SalesForce</b>",
@@ -135,17 +135,17 @@
         },
 
         {
-          "value": "Hùng Phạm",
+          "value": "桜井 正雄",
           "links": [{ "href": "https://github.com" }],
           "icon": {
-            "img": "images/pictures/Hùng Phạm - BlueOC  Software developer.webp",
+            "img": "images/pictures/桜井 正雄  System engineer of Fixer.webp",
             "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
           "locales": {
             "en": {
-              "info": "Developer at <b>BlueOC</b>",
-              "text": "He’s a natural-born project manager. I truly believe that his exceptional talent and genuine care for his team members were key to this success. I aspire to become someone like him in the future."
+              "info": "System engineer of <b>Fixer</b>",
+              "text": "I am so glad that my best friend Hiroshi joined our company. His active support was a great help to us when we were short on blockchain developers. Although he had many difficulties due to family circumstances, he responded to our company’s business more than we expected. I am grateful for his hard work."
             },
             "es": {
               "info": "Desarrollador Principal en <b>GitHub </b>",
@@ -158,17 +158,17 @@
           }
         },
         {
-          "value": "Robert Love",
-          "links": [{ "href": "https://www.linkedin.com/in/rmlove" }],
+          "value": "Jimmi Lamb",
+          "links": [{ "href": "https://www.linkedin.com" }],
           "icon": {
-            "img": "images/pictures/Robert Love(USA_CLIENT).webp",
+            "img": "images/pictures/Jimmi Lamb(Canada).webp",
             "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
           "locales": {
             "en": {
-              "info": "Client",
-              "text": "His ability to pick up new skills is truly remarkable. Initially, I was quite concerned since this was his first time working in this field, but his talent and dedication quickly put those worries to rest. Thanks to his hard work, the project was a resounding success."
+              "info": "Client from <b>Canada</b>",
+              "text": "One of the reasons I met him among many developers on Upwork was not because of his flashy profile, but because of his enterprising spirit and humility. He always responded quickly and always with an ethical business approach. It was a blessing to work with him."
             },
             "es": {
               "info": "Directora General en <b>Dingga</b>",
@@ -182,19 +182,17 @@
         },
 
         {
-          "value": "Richard Sanche",
-          "links": [
-            { "href": "https://www.linkedin.com/in/richard-sanchez-534b4313" }
-          ],
+          "value": "Eric Pilat",
+          "links": [{ "href": "https://www.linkedin.com/" }],
           "icon": {
-            "img": "images/pictures/Richard Sanches (USA_CLIENT).webp",
+            "img": "images/pictures/Eric Pilat(France).webp",
             "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
           "locales": {
             "en": {
-              "info": "Client",
-              "text": "It wouldn’t do him justice to sum up his talent and dedication in just a sentence or two, but I can confidently say he’s one of the most talented and reliable people I’ve ever had the pleasure of working with. Absolutely outstanding!"
+              "info": "Client from <b>France</b>",
+              "text": "To be honest, he is the only person I have ever told my personal life to. That is because I trusted his humanity and honesty. He never made me feel bad and always impressed me with his abilities."
             },
             "es": {
               "info": "Directora Creativa en <b>Dribbble</b>",
