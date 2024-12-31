@@ -30,7 +30,7 @@
         {
           "id": "apps",
           "locales": {
-            "en": { "singular": "App", "plural": "Apps" },
+            "en": { "singular": "Blockchain", "plural": "Blockchain" },
             "es": { "singular": "App", "plural": "Apps" },
             "fr": { "singular": "App", "plural": "Apps" }
           }
@@ -38,7 +38,7 @@
         {
           "id": "websites",
           "locales": {
-            "en": { "singular": "Website", "plural": "Web" },
+            "en": { "singular": "Full-stack", "plural": "Full-stack" },
             "es": { "singular": "Sitio web", "plural": "Web" },
             "fr": { "singular": "Site web", "plural": "Web" }
           }
@@ -46,7 +46,7 @@
         {
           "id": "utilities",
           "locales": {
-            "en": { "singular": "Utility", "plural": "Utilities" },
+            "en": { "singular": "Others", "plural": "Others" },
             "es": { "singular": "Utilidad", "plural": "Utilidades" },
             "fr": { "singular": "Utilitaire", "plural": "Utilitaires" }
           }
@@ -55,378 +55,548 @@
 
       "items": [
         {
-          "categoryId": "utilities",
-          "icon": {
-            "img": "images/pictures/project-logo-3.png",
-            "fa": "",
-            "faColors": { "bg": null, "fill": null }
-          },
-
-          "links": [
-            { "faIcon": "fa-brands fa-github", "href": "https://github.com" },
-            { "faIcon": "fa-brands fa-npm", "href": "https://npm.com" }
-          ],
-
-          "media": {
-            "youtubeVideo": "https://www.youtube.com/watch?v=32XsfeIX_rM",
-            "screenshots": {
-              "aspectRatio": null,
-              "images": []
-            }
-          },
-
-          "locales": {
-            "en": {
-              "title": "BrainPulse",
-              "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
-              "tags": ["API", "REST", "Backend"]
-            },
-            "es": {
-              "title": "BrainPulse",
-              "text": "Una <b>API RESTful</b> construida con <b>Node.js</b>, diseñada para el procesamiento de datos de alto rendimiento y la gestión de eventos en tiempo real.",
-              "tags": ["API", "REST", "Backend"]
-            },
-            "fr": {
-              "title": "BrainPulse",
-              "text": "Un backend <b>API RESTful</b> construit avec <b>Node.js</b>, conçu pour le traitement de données haute performance et la gestion d'événements en temps réel.",
-              "tags": ["API", "REST", "Backend"]
-            }
-          }
-        },
-
-        {
           "categoryId": "apps",
           "icon": {
-            "img": "images/pictures/project-logo-7.png",
-            "fa": "",
+            "img": "images/pictures/Project/Blockchain/saisi-nft-marketplace/saisi-nft-marketplace.webp",
+            "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
 
           "links": [
-            { "faIcon": "fa-brands fa-apple", "href": "https://apple.com" },
             {
-              "faIcon": "fa-brands fa-google-play",
-              "href": "https://google.com"
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/ledgerluminary55/saisi_nft-marketplace"
+            },
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://saisi-nft-marketplace.vercel.app/"
             }
           ],
 
           "media": {
-            "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI",
+            "youtubeVideo": null,
             "screenshots": {
-              "aspectRatio": "9:16",
+              "aspectRatio": "1280:720",
               "images": [
-                "images/pictures/project-screenshot-1.webp",
-                "images/pictures/project-screenshot-2.webp",
-                "images/pictures/project-screenshot-3.webp",
-                "images/pictures/project-screenshot-4.webp",
-                "images/pictures/project-screenshot-5.webp"
+                "images/pictures/Project/Blockchain/saisi-nft-marketplace/saisi-nft-marketplace.webp"
               ]
             }
           },
 
           "locales": {
             "en": {
-              "title": "MailM8",
-              "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
-              "tags": ["Flutter", "E-mail", "Communication"]
-            },
-            "es": {
-              "title": "MailM8",
-              "text": "Un cliente de correo electrónico multiplataforma construido con <b>Flutter</b>, que ofrece comunicación eficiente y una interfaz intuitiva para la <b>gestión de correos electrónicos</b>.",
-              "tags": ["Flutter", "Correo", "Comunicación"]
-            },
-            "fr": {
-              "title": "MailM8",
-              "text": "Un client de messagerie multiplateforme construit avec <b>Flutter</b>, offrant une communication efficace et une interface intuitive pour <b>gérer les e-mails</b>.",
-              "tags": ["Flutter", "E-mail", "Communication"]
+              "title": "Saisi-NFT-Marketplace",
+              "text": "The <B>Saisi NFT Marketplace</B> is a decentralized platform designed for users to discover, collect, and trade unique digital assets known as Non-Fungible Tokens (NFTs). Hosted on Vercel, the marketplace offers a user-friendly interface for exploring and managing NFTs.",
+              "tags": ["Typscript", "React", "Solidity"]
             }
           }
         },
-
         {
           "categoryId": "apps",
           "icon": {
-            "img": "images/pictures/project-logo-6.png",
-            "fa": "",
+            "img": "images/pictures/Project/Blockchain/spaceseven/spaceseven (1).webp",
+            "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
 
           "links": [
-            { "faIcon": "fa-brands fa-apple", "href": "https://apple.com" },
             {
-              "faIcon": "fa-brands fa-google-play",
-              "href": "https://google.com"
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/ledgerluminary55/spaceseven"
+            },
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://spaceseven.com/"
             }
           ],
 
           "media": {
             "youtubeVideo": null,
             "screenshots": {
-              "aspectRatio": "16:9",
+              "aspectRatio": "1280:720",
               "images": [
-                "images/pictures/project-screenshot-6.png",
-                "images/pictures/project-screenshot-7.png",
-                "images/pictures/project-screenshot-8.png"
+                "images/pictures/Project/Blockchain/spaceseven/spaceseven (1).webp",
+                "images/pictures/Project/Blockchain/spaceseven/spaceseven (2).webp",
+                "images/pictures/Project/Blockchain/spaceseven/spaceseven (3).webp",
+                "images/pictures/Project/Blockchain/spaceseven/spaceseven (4).webp",
+                "images/pictures/Project/Blockchain/spaceseven/spaceseven (5).webp"
               ]
             }
           },
 
           "locales": {
             "en": {
-              "title": "Stackers",
-              "text": "A fully-featured productivity app developed with <b>React Native</b>, enabling users to organize tasks, notes, and projects across multiple devices. It offers <b>cloud sync</b>, intuitive UI, and collaboration features.",
-              "tags": ["React", "Organization", "Notes"]
-            },
-            "es": {
-              "title": "Stackers",
-              "text": "Una app de productividad con todas las funciones, desarrollada con <b>React Native</b>, que permite a los usuarios organizar tareas, notas y proyectos en varios dispositivos. Ofrece <b>sincronización en la nube</b>, interfaz intuitiva y características de colaboración.",
-              "tags": ["React", "Organización", "Notas"]
-            },
-            "fr": {
-              "title": "Stackers",
-              "text": "Une application de productivité complète développée avec <b>React Native</b>, permettant aux utilisateurs d'organiser tâches, notes et projets sur plusieurs appareils. Elle offre <b>synchronisation cloud</b>, interface intuitive et fonctionnalités de collaboration.",
-              "tags": ["React", "Organisation", "Notes"]
+              "title": "Spaceseven",
+              "text": " A full stack digital marketplace running on the public IOTA Smart Contracts EVM Testnet.",
+              "tags": ["React", "Solidity", "Polygon"]
             }
           }
         },
-
-        {
-          "categoryId": "websites",
-          "icon": {
-            "img": "images/pictures/project-logo-1.png",
-            "fa": "",
-            "faColors": { "bg": null, "fill": null }
-          },
-
-          "links": [
-            { "faIcon": "fa-solid fa-link", "href": "https://cash.com" }
-          ],
-
-          "media": {
-            "youtubeVideo": "https://www.youtube.com/watch?v=MQe_MoJ7Iww",
-            "screenshots": {
-              "aspectRatio": null,
-              "images": []
-            }
-          },
-
-          "locales": {
-            "en": {
-              "title": "SmartCash",
-              "text": "A finance website built using <b>Next.js</b>, allowing users to <b>track budgets</b> and manage their money with interactive charts and insights.",
-              "tags": ["Next.js", "Finance", "Money"]
-            },
-            "es": {
-              "title": "SmartCash",
-              "text": "Un sitio web financiero construido con <b>Next.js</b>, que permite a los usuarios <b>seguir presupuestos</b> y gestionar su dinero con gráficos interactivos e ideas.",
-              "tags": ["Next.js", "Finanzas", "Dinero"]
-            },
-            "fr": {
-              "title": "SmartCash",
-              "text": "Un site web financier construit avec <b>Next.js</b>, permettant aux utilisateurs de <b>suivre les budgets</b> et de gérer leur argent avec des graphiques interactifs et des analyses.",
-              "tags": ["Next.js", "Finance", "Argent"]
-            }
-          }
-        },
-
         {
           "categoryId": "apps",
           "icon": {
-            "img": "images/pictures/project-logo-2.png",
-            "fa": "",
+            "img": "images/pictures/Project/Blockchain/Orphic/Orphic (1).webp",
+            "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
 
           "links": [
-            { "faIcon": "fa-brands fa-apple", "href": "https://apple.com" },
             {
-              "faIcon": "fa-brands fa-google-play",
-              "href": "https://google.com"
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/ledgerluminary55/Orphic"
+            },
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": " https://orphic-topaz.vercel.app/"
             }
           ],
 
           "media": {
             "youtubeVideo": null,
             "screenshots": {
-              "aspectRatio": null,
-              "images": []
+              "aspectRatio": "1280:720",
+              "images": [
+                "images/pictures/Project/Blockchain/Orphic/Orphic (1).webp",
+                "images/pictures/Project/Blockchain/Orphic/Orphic (2).webp",
+                "images/pictures/Project/Blockchain/Orphic/Orphic (3).webp"
+              ]
             }
           },
 
           "locales": {
             "en": {
-              "title": "Snappy",
-              "text": "A powerful photography app designed with <b>Swift</b> for iOS and Android, featuring <b>advanced camera controls</b>, editing tools, and AI-powered filters for quick photo enhancements.",
-              "tags": ["Swift", "Photography", "Camera"]
-            },
-            "es": {
-              "title": "Snappy",
-              "text": "Una app de fotografía potente diseñada con <b>Swift</b> para iOS y Android, con <b>controles avanzados de cámara</b>, herramientas de edición y filtros potenciados por IA para mejoras rápidas de fotos.",
-              "tags": ["Swift", "Fotografía", "Cámara"]
-            },
-            "fr": {
-              "title": "Snappy",
-              "text": "Une application de photographie puissante conçue avec <b>Swift</b> pour iOS et Android, avec des <b>contrôles avancés de la caméra</b>, des outils d'édition et des filtres IA pour des améliorations rapides des photos.",
-              "tags": ["Swift", "Photographie", "Caméra"]
+              "title": "Orphic",
+              "text": "A Decentralized NFT based Gaming Platform (Dragons vs Tigers)",
+              "tags": ["Solidity", "Python", "TypeScript", "Ruby", "Shell"]
             }
           }
         },
-
-        {
-          "categoryId": "websites",
-          "icon": {
-            "img": "images/pictures/project-logo-5.png",
-            "fa": "",
-            "faColors": { "bg": null, "fill": null }
-          },
-
-          "links": [
-            { "faIcon": "fa-solid fa-link", "href": "https://sweetscoops.com" }
-          ],
-
-          "media": {
-            "youtubeVideo": null,
-            "screenshots": {
-              "aspectRatio": null,
-              "images": []
-            }
-          },
-
-          "locales": {
-            "en": {
-              "title": "Sweet Scoops",
-              "text": "A recipe website built with <b>WordPress</b> and WooCommerce, featuring a rich collection of <b>dessert recipes</b> and an integrated e-commerce platform.",
-              "tags": ["WooCommerce", "Food", "Desserts"]
-            },
-            "es": {
-              "title": "Sweet Scoops",
-              "text": "Un sitio web de recetas construido con <b>WordPress</b> y WooCommerce, con una rica colección de <b>recetas de postres</b> y una plataforma de comercio electrónico integrada.",
-              "tags": ["WooCommerce", "Comida", "Postres"]
-            },
-            "fr": {
-              "title": "Sweet Scoops",
-              "text": "Un site de recettes construit avec <b>WordPress</b> et WooCommerce, présentant une riche collection de <b>recettes de desserts</b> et une plateforme de commerce électronique intégrée.",
-              "tags": ["WooCommerce", "Cuisine", "Desserts"]
-            }
-          }
-        },
-
-        {
-          "categoryId": "websites",
-          "icon": {
-            "img": null,
-            "fa": "fa-solid fa-guitar",
-            "faColors": { "bg": "#111", "fill": "#EEE" }
-          },
-
-          "links": [
-            { "faIcon": "fa-solid fa-link", "href": "https://rockverse.com" }
-          ],
-
-          "media": {
-            "youtubeVideo": "",
-            "screenshots": {
-              "aspectRatio": null,
-              "images": []
-            }
-          },
-
-          "locales": {
-            "en": {
-              "title": "RockVerse",
-              "text": "A dynamic music and entertainment website developed with <b>Django</b>, showcasing rock music news, events, and <b>streaming content</b>.",
-              "tags": ["Django", "Music", "Rock"]
-            },
-            "es": {
-              "title": "RockVerse",
-              "text": "Un sitio web dinámico de música y entretenimiento desarrollado con <b>Django</b>, que muestra noticias de música rock, eventos y <b>contenido en streaming</b>.",
-              "tags": ["Django", "Música", "Rock"]
-            },
-            "fr": {
-              "title": "RockVerse",
-              "text": "Un site web de musique et de divertissement dynamique développé avec <b>Django</b>, mettant en avant des nouvelles, événements et <b>contenu en streaming</b> sur le rock.",
-              "tags": ["Django", "Musique", "Rock"]
-            }
-          }
-        },
-
-        {
-          "categoryId": "utilities",
-          "icon": {
-            "img": "images/pictures/project-logo-4.png",
-            "fa": "",
-            "faColors": { "bg": null, "fill": null }
-          },
-
-          "links": [],
-
-          "media": {
-            "youtubeVideo": "https://www.youtube.com/watch?v=bf3Lz33nHy0",
-            "screenshots": {
-              "aspectRatio": null,
-              "images": []
-            }
-          },
-
-          "locales": {
-            "en": {
-              "title": "Soccer Analytics",
-              "text": "An AI-powered sports analytics platform built with <b>Python</b> and <b>TensorFlow</b>, offering detailed soccer <b>predictions</b> and team management tools.",
-              "tags": ["AI", "Prediction", "Soccer"]
-            },
-            "es": {
-              "title": "Soccer Analytics",
-              "text": "Una plataforma de análisis deportivo impulsada por IA construida con <b>Python</b> y <b>TensorFlow</b>, que ofrece <b>predicciones</b> detalladas de fútbol y herramientas de gestión de equipos.",
-              "tags": ["IA", "Predicción", "Fútbol"]
-            },
-            "fr": {
-              "title": "Soccer Analytics",
-              "text": "Une plateforme d'analytique sportive alimentée par IA construite avec <b>Python</b> et <b>TensorFlow</b>, offrant des <b>prédictions</b> détaillées pour le football et des outils de gestion d'équipe.",
-              "tags": ["IA", "Prédiction", "Football"]
-            }
-          }
-        },
-
         {
           "categoryId": "apps",
           "icon": {
-            "img": "",
-            "fa": "fa-solid fa-truck-fast",
-            "faColors": { "bg": "#007396", "fill": "#EEE" }
+            "img": "images/pictures/Project/Blockchain/deximpli/deximpli (1).webp",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
           },
 
           "links": [
-            { "faIcon": "fa-brands fa-apple", "href": "https://apple.com" },
             {
-              "faIcon": "fa-brands fa-google-play",
-              "href": "https://google.com"
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/ledgerluminary55/Deximpli"
             },
-            { "faIcon": "fa-brands fa-windows", "href": "https://windows.com" }
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": " https://deximpli.vercel.app/"
+            }
           ],
 
           "media": {
             "youtubeVideo": null,
             "screenshots": {
-              "aspectRatio": null,
-              "images": []
+              "aspectRatio": "1280:720",
+              "images": [
+                "images/pictures/Project/Blockchain/deximpli/deximpli (1).webp",
+                "images/pictures/Project/Blockchain/deximpli/deximpli (2).webp",
+                "images/pictures/Project/Blockchain/deximpli/deximpli (3).webp",
+                "images/pictures/Project/Blockchain/deximpli/deximpli (4).webp"
+              ]
             }
           },
 
           "locales": {
             "en": {
-              "title": "QuickDrop",
-              "text": "A cross-platform delivery app built with <b>React Native</b> and a <b>Node.js backend</b>, featuring <b>real-time tracking</b> and seamless integration with multiple platforms.",
-              "tags": ["React Native", "Delivery", "Real-Time Tracking"]
+              "title": "Deximpli",
+              "text": "<b>Deximpli</b> is a cutting-edge DeFi platform built on Base, Optimism, Mode, and Celo. It features a comprehensive suite of financial tools, including a decentralized exchange (DEX) with liquidity provision and yield farming, a dynamic crypto loan system with multi-collateral support and adjustable interest rates, and advanced staking mechanisms.",
+              "tags": ["C++", "React", "Assembly", "Solidity"]
+            }
+          }
+        },
+        {
+          "categoryId": "apps",
+          "icon": {
+            "img": "images/pictures/Project/Blockchain/IBEX DAO/IBEX DAO (1).webp",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": " https://github.com/ledgerluminary55/ibex-dao"
             },
-            "es": {
-              "title": "QuickDrop",
-              "text": "Una app de entregas multiplataforma construida con <b>React Native</b> y un backend de <b>Node.js</b>, con <b>seguimiento en tiempo real</b> e integración perfecta en múltiples plataformas.",
-              "tags": ["React Native", "Entrega", "Seguimiento"]
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://ibex-dao.vercel.app/"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": null,
+            "screenshots": {
+              "aspectRatio": "1280:720",
+              "images": [
+                "images/pictures/Project/Blockchain/IBEX DAO/IBEX DAO (1).webp",
+                "images/pictures/Project/Blockchain/IBEX DAO/IBEX DAO (2).webp",
+                "images/pictures/Project/Blockchain/IBEX DAO/IBEX DAO (3).webp",
+                "images/pictures/Project/Blockchain/IBEX DAO/IBEX DAO (4).webp"
+              ]
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "IBEX DAO",
+              "text": "This project is a website for <b>IBEX DAO</b>, designed to make decentralized finance (DeFi) and NFTs easy and accessible for everyone. It helps users learn, create, and mint their own NFTs while showcasing the project's roadmap and community-building goals. The site is visually appealing and user-friendly, focusing on simplicity and engagement.",
+              "tags": ["Shell"]
+            }
+          }
+        },
+        {
+          "categoryId": "apps",
+          "icon": {
+            "img": "images/pictures/Project/Blockchain/hidden-poetry/hidden-poetry.webp",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/ledgerluminary55/hidden-poetry"
             },
-            "fr": {
-              "title": "QuickDrop",
-              "text": "Une application de livraison multiplateforme construite avec <b>React Native</b> et un backend <b>Node.js</b>, avec <b>suivi en temps réel</b> et intégration fluide sur plusieurs plateformes.",
-              "tags": ["React Native", "Livraison", "Suivi"]
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": " https://hidden-poetry-2908.on.fleek.co/"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": null,
+            "screenshots": {
+              "aspectRatio": "1280:720",
+              "images": [
+                "images/pictures/Project/Blockchain/hidden-poetry/hidden-poetry.webp"
+              ]
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "Hidden-Poetry",
+              "text": " In this project, I turn crowdfunding into a decentralized fashion to make it easier for a funder to fund as well as increase the fundraiser's liability and transparency. First, the fundraiser will create a campaign, After that, the funder will fund the smart via interacting with this robust website.",
+              "tags": ["Solidity", "JavaScript"]
+            }
+          }
+        },
+        {
+          "categoryId": "apps",
+          "icon": {
+            "img": "images/pictures/Project/Blockchain/pop/pop (1).webp",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/ledgerluminary55/POPG-Lifestyle-Rewards"
+            },
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": " https://pop.vip/"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": null,
+            "screenshots": {
+              "aspectRatio": "1280:720",
+              "images": [
+                "images/pictures/Project/Blockchain/pop/pop (1).webp",
+                "images/pictures/Project/Blockchain/pop/pop (2).webp",
+                "images/pictures/Project/Blockchain/pop/pop (3).webp",
+                "images/pictures/Project/Blockchain/pop/pop (4).webp"
+              ]
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "POP",
+              "text": "POP.VIP is a tier-based system that enables users to lock their POPG tokens and earn incentives within the POPG ecosystem. By doing this, participants can earn points, allowing them to advance through various VIP tier levels. The benefits they receive are determined by the quantity of POPG tokens locked and the duration of the committed lock up. The rebate amount can be redeemed for entertainment utilities like Netflix, Spotify, PlayStation Plus subscriptions, and amusement park tickets.",
+              "tags": ["Rust", "Solana Program"]
+            }
+          }
+        },
+        {
+          "categoryId": "apps",
+          "icon": {
+            "img": "images/pictures/Project/Blockchain/Ango Wallet/Ango Wallet (1).webp",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/ledgerluminary55/ango-wallet"
+            },
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://www.ango-ecosystem.io/"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": null,
+            "screenshots": {
+              "aspectRatio": "1280:720",
+              "images": [
+                "images/pictures/Project/Blockchain/Ango Wallet/Ango Wallet (1).webp",
+                "images/pictures/Project/Blockchain/Ango Wallet/Ango Wallet (2).webp",
+                "images/pictures/Project/Blockchain/Ango Wallet/Ango Wallet (3).webp"
+              ]
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "Ango Wallet",
+              "text": "<b>ANGO wallet</b> aims to provide the best experience to web3 users and the ability to engage with the community of like-minded folks through the socialization module. ANGO incorporates all the features crypto enthusiasts and professionals use on a daily basis.",
+              "tags": ["Dart", "Ruby"]
+            }
+          }
+        },
+        {
+          "categoryId": "apps",
+          "icon": {
+            "img": "images/pictures/Project/Blockchain/creon/creon (1).webp",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/ledgerluminary55/creon"
+            },
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://creon-cef.vercel.app/"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": null,
+            "screenshots": {
+              "aspectRatio": "1280:720",
+              "images": [
+                "images/pictures/Project/Blockchain/creon/creon (1).webp",
+                "images/pictures/Project/Blockchain/creon/creon (2).webp",
+                "images/pictures/Project/Blockchain/creon/creon (3).webp",
+                "images/pictures/Project/Blockchain/creon/creon (4).webp",
+                "images/pictures/Project/Blockchain/creon/creon (5).webp",
+                "images/pictures/Project/Blockchain/creon/creon (6).webp"
+              ]
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "Creon",
+              "text": "<b>Creon</b> is a pioneering platform that integrates artificial intelligence (AI) with blockchain technology, enabling users to invest in and profit from AI-driven projects. By holding a Creon Pass NFT, individuals gain early access to AI initiatives, participate in revenue sharing, and engage with the Creon AI Launchpad for exclusive investment opportunities.",
+              "tags": ["React", "Creon pass NFT"]
+            }
+          }
+        },
+        {
+          "categoryId": "apps",
+          "icon": {
+            "img": "images/pictures/Project/Blockchain/Talent-Musica/Talent-Musica (1).webp",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": " https://github.com/ledgerluminary55/TalentMusica-XDC"
+            },
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://talent-musica-xdc.vercel.app/"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": null,
+            "screenshots": {
+              "aspectRatio": "1280:720",
+              "images": [
+                "images/pictures/Project/Blockchain/Talent-Musica/Talent-Musica (1).webp",
+                "images/pictures/Project/Blockchain/Talent-Musica/Talent-Musica (2).webp"
+              ]
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "Talent Musica",
+              "text": "<b>Talent Musica</b> seeks to create an on-chain music Dapp where young music talents can upload their creation and mint it to the talent marketplace as Video NFTs. If users like the music, such artists can be contacted on their Twitter handles. Producers and Managers who looks the work of any upcoming artiste / talent can contact the talent and sign a contract with him/ her.",
+              "tags": ["React", "Node", "Web3.js", "ether.js", "Solidity"]
+            }
+          }
+        },
+
+        {
+          "categoryId": "websites",
+          "icon": {
+            "img": "images/pictures/Project/Full Stack/Karakuri Admin Dashboard/Karakuri Admin Dashboard.webp",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": " https://github.com/ledgerluminary55/kakarui"
+            },
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://entrykit-dev.karakurijapan.com/"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": null,
+            "screenshots": {
+              "aspectRatio": "1280:720",
+              "images": [
+                "images/pictures/Project/Full Stack/Karakuri Admin Dashboard/Karakuri Admin Dashboard.webp"
+              ]
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "Karakuri Admin Dashboard",
+              "text": "<b>Karakuri</b> is an admin dashboard built with Next.js, React 18.2.0, and Ant Design 5.0. It provides a user-friendly interface for managing modules, real-time devices, and user roles, streamlining system administration tasks.",
+              "tags": ["JavaScript", "Python", "Next.js", "AntDesign"]
+            }
+          }
+        },
+        {
+          "categoryId": "websites",
+          "icon": {
+            "img": "images/pictures/Project/Full Stack/talk/talk (1).webp",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/ledgerluminary55/talk"
+            },
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://talk.vasanthv.com/"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": null,
+            "screenshots": {
+              "aspectRatio": "1280:720",
+              "images": [
+                "images/pictures/Project/Full Stack/talk/talk (1).webp",
+                "images/pictures/Project/Full Stack/talk/talk (2).webp",
+                "images/pictures/Project/Full Stack/talk/talk (3).webp",
+                "images/pictures/Project/Full Stack/talk/talk (4).webp"
+              ]
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "Talk",
+              "text": "It is built using WebRTC, so all your video chat is peer-to-peer. Group video call is achieved using WebRTC mesh. So the quality of the call is inversely proportional to the number of people on the call. The sweet number is somewhere around 6 to 8 people in an average high-speed connection.",
+              "tags": ["WebRTC", "JavaScript", "Node"]
+            }
+          }
+        },
+        {
+          "categoryId": "websites",
+          "icon": {
+            "img": "images/pictures/Project/Full Stack/sankhadiproy/sankhadiproy.webp",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/ledgerluminary55/leaf-disease-detection-frontend"
+            },
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://ldd.sankhadiproy.me/"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": null,
+            "screenshots": {
+              "aspectRatio": "1280:720",
+              "images": [
+                "images/pictures/Project/Full Stack/sankhadiproy/sankhadiproy.webp"
+              ]
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "Sankhadiproy",
+              "text": "This project focuses on creating a system that can automatically identify diseases in plant leaves by analyzing their images. By utilizing advanced computer techniques, the system can detect and classify various leaf diseases, assisting farmers and gardeners in recognizing plant health issues promptly. This early detection enables timely interventions, potentially improving crop yields and reducing economic losses.",
+              "tags": ["Next.js"]
+            }
+          }
+        },
+
+        {
+          "categoryId": "websites",
+          "icon": {
+            "img": "images/pictures/Project/Full Stack/sankhadiproy/sankhadiproy.webp",
+            "fa": null,
+            "faColors": { "bg": null, "fill": null }
+          },
+
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/ledgerluminary55/leaf-disease-detection-frontend"
+            },
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://ldd.sankhadiproy.me/"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": null,
+            "screenshots": {
+              "aspectRatio": "1280:720",
+              "images": [
+                "images/pictures/Project/Full Stack/sankhadiproy/sankhadiproy.webp"
+              ]
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "Sankhadiproy",
+              "text": "This project focuses on creating a system that can automatically identify diseases in plant leaves by analyzing their images. By utilizing advanced computer techniques, the system can detect and classify various leaf diseases, assisting farmers and gardeners in recognizing plant health issues promptly. This early detection enables timely interventions, potentially improving crop yields and reducing economic losses.",
+              "tags": ["Next.js"]
             }
           }
         }
