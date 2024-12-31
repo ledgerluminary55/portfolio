@@ -564,9 +564,9 @@
         },
 
         {
-          "categoryId": "websites",
+          "categoryId": "utilities",
           "icon": {
-            "img": "images/pictures/Project/Full Stack/sankhadiproy/sankhadiproy.webp",
+            "img": "images/pictures/Project/Others/Chatin/Chatin (1).webp",
             "fa": null,
             "faColors": { "bg": null, "fill": null }
           },
@@ -574,11 +574,11 @@
           "links": [
             {
               "faIcon": "fa-brands fa-github",
-              "href": "https://github.com/ledgerluminary55/leaf-disease-detection-frontend"
+              "href": "https://github.com/ledgerluminary55/chatin-v2"
             },
             {
               "faIcon": "fa-solid fa-link",
-              "href": "https://ldd.sankhadiproy.me/"
+              "href": "https://chatin2.vercel.app/"
             }
           ],
 
@@ -587,16 +587,54 @@
             "screenshots": {
               "aspectRatio": "1280:720",
               "images": [
-                "images/pictures/Project/Full Stack/sankhadiproy/sankhadiproy.webp"
+                "images/pictures/Project/Others/Chatin/Chatin (1).webp",
+                "images/pictures/Project/Others/Chatin/Chatin (2).webp",
+                "images/pictures/Project/Others/Chatin/Chatin (3).webp",
+                "images/pictures/Project/Others/Chatin/Chatin (4).webp"
               ]
             }
           },
 
           "locales": {
             "en": {
-              "title": "Sankhadiproy",
-              "text": "This project focuses on creating a system that can automatically identify diseases in plant leaves by analyzing their images. By utilizing advanced computer techniques, the system can detect and classify various leaf diseases, assisting farmers and gardeners in recognizing plant health issues promptly. This early detection enables timely interventions, potentially improving crop yields and reducing economic losses.",
-              "tags": ["Next.js"]
+              "title": "Chatin",
+              "text": "Talk to Rawan voice-to-voice using speech recognition or text-to-speech, with elevenlabs technology and chatgpt on the web.",
+              "tags": ["TypeScript", "SCSS", "Chatbot"]
+            }
+          }
+        },
+        {
+          "categoryId": "utilities",
+          "icon": {
+            "img": null,
+            "fa": "fa-brands fa-x-twitter",
+            "faColors": { "bg": "#EEE", "fill": "#000" }
+          },
+
+          "links": [
+            {
+              "faIcon": "fa-brands fa-github",
+              "href": "https://github.com/ledgerluminary55/askgirolamo"
+            },
+            {
+              "faIcon": "fa-solid fa-link",
+              "href": "https://x.com/askgirolamo"
+            }
+          ],
+
+          "media": {
+            "youtubeVideo": null,
+            "screenshots": {
+              "aspectRatio": "1280:720",
+              "images": []
+            }
+          },
+
+          "locales": {
+            "en": {
+              "title": "Askgirolamo",
+              "text": "I developed a Twitter chatbot in which I used the Google Bard API to provide real-time information. It is developed in Python, and its main purpose is to answer questions. In this bot, users can tweet on any post, and Girolamo will explain that tweet. A fundamental question for any aspiring Cardano enthusiast! @askgirolamo is always happy to illuminate the minds of curious folks like yourself. Imagine, a vast decentralized ledger not maintained by a single entity, but by a network of independent computers across the globe",
+              "tags": ["Python"]
             }
           }
         }
