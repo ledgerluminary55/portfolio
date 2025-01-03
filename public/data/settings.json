@@ -52,12 +52,6 @@
       "id": "en",
       "flagUrl": "images/flags/en.png",
       "default": true
-    },
-
-    {
-      "name": "日本語",
-      "id": "ja",
-      "flagUrl": "images/flags/ja.png"
     }
   ],
 
