@@ -47,8 +47,8 @@
 
       "items": [
         {
-          "value": "+1 (123) 456-7890",
-          "links": [{ "href": "tel:11234567890" }],
+          "value": "+81 840 434452",
+          "links": [{ "href": "tel:81840434452" }],
           "icon": {
             "img": null,
             "fa": "fa-solid fa-phone",
@@ -62,8 +62,8 @@
         },
 
         {
-          "value": "ronnyphoenix@gmail.com",
-          "links": [{ "href": "mailto:ronnyphoenix@gmail.com" }],
+          "value": "hiroshisekiya644@gmail.com",
+          "links": [{ "href": "mailto:hiroshisekiya644@gmail.com" }],
           "icon": {
             "img": null,
             "fa": "fa-solid fa-envelope",
@@ -75,54 +75,19 @@
         },
 
         {
-          "value": "@markchoi",
-          "links": [{ "href": "https://linkedin.com" }],
+          "value": "@Hiroshi Sekiya",
+          "links": [
+            {
+              "href": "https://drive.google.com/file/d/1QcxP0nD1IEuKd-fo0kn5XpobgtM7mj39/view?pli=1"
+            }
+          ],
           "icon": {
             "img": null,
-            "fa": "fa-brands fa-linkedin",
+            "fa": "fa-solid fa-file",
             "faColors": { "bg": null, "fill": null }
           },
           "locales": {
-            "en": { "title": "Linkedin" }
-          }
-        },
-
-        {
-          "value": "Mark Choi",
-          "links": [{ "href": "https://facebook.com" }],
-          "icon": {
-            "img": null,
-            "fa": "fa-brands fa-facebook",
-            "faColors": { "bg": null, "fill": null }
-          },
-          "locales": {
-            "en": { "title": "Facebook" }
-          }
-        },
-
-        {
-          "value": "@markchoi",
-          "links": [{ "href": "https://instagram.com" }],
-          "icon": {
-            "img": null,
-            "fa": "fa-brands fa-instagram",
-            "faColors": { "bg": null, "fill": null }
-          },
-          "locales": {
-            "en": { "title": "Instagram" }
-          }
-        },
-
-        {
-          "value": "@markchoi",
-          "links": [{ "href": "https://tiktok.com" }],
-          "icon": {
-            "img": null,
-            "fa": "fa-brands fa-tiktok",
-            "faColors": { "bg": null, "fill": null }
-          },
-          "locales": {
-            "en": { "title": "TikTok" }
+            "en": { "title": "Resume" }
           }
         }
       ]
