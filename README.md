@@ -41,7 +41,7 @@ On mobile, the layout groups the portfolio sections into categories and transfor
 1. Clone the repo:
 
 ```
-git clone https://github.com/ryanbalieiro/react-portfolio-template
+git clone https://github.com/hiroshisekiya664
 ```
 
 2. Go to the root directory of the project and install all dependencies with npm:
